@@ -44,7 +44,7 @@ No external dependencies are required — it runs on the Python standard library
 Run the script:
 
 ```bash
-python caesar_cipher.py
+python app.py
 ```
 
 You'll be prompted to choose a mode, enter your message, and provide a shift value:
