@@ -80,7 +80,7 @@ The core logic lives in the `caesar_cipher(text, shift, mode)` function:
 
 ```
 caesar-cipher/
-└── caesar_cipher.py   # Main script with cipher logic and CLI
+└── app.py   # Main script with cipher logic and CLI
 ```
 
 ## Example
